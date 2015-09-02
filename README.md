@@ -8,7 +8,7 @@ This project tries to be a helping tool for young learners to help them learn ab
 
 # Disclaimer
 
-The sourcecode does not come with any kinds of warrenty or support, though you can contact me if you need.
+The sourcecode does not come with any kind of warrenty or support, though you can contact me if you need.
 
 
 # Copyright
